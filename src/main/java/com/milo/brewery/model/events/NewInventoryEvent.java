@@ -1,4 +1,4 @@
-package com.milo.common.events;
+package com.milo.brewery.model.events;
 
 import lombok.NoArgsConstructor;
 

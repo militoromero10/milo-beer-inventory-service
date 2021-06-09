@@ -1,7 +1,7 @@
 package com.milo.ms.web.mappers;
 
 import com.milo.ms.domain.BeerInventory;
-import com.milo.ms.web.model.BeerInventoryDto;
+import com.milo.brewery.model.BeerInventoryDto;
 import org.mapstruct.Mapper;
 
 @Mapper(uses = {DateMapper.class})

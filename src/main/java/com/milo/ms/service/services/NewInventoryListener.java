@@ -1,6 +1,6 @@
 package com.milo.ms.service.services;
 
-import com.milo.common.events.NewInventoryEvent;
+import com.milo.brewery.model.events.NewInventoryEvent;
 import com.milo.ms.config.JmsConfig;
 import com.milo.ms.domain.BeerInventory;
 import com.milo.ms.repositories.BeerInventoryRepository;

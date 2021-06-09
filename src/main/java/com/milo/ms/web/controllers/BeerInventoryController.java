@@ -3,7 +3,7 @@ package com.milo.ms.web.controllers;
 
 import com.milo.ms.repositories.BeerInventoryRepository;
 import com.milo.ms.web.mappers.BeerInventoryMapper;
-import com.milo.ms.web.model.BeerInventoryDto;
+import com.milo.brewery.model.BeerInventoryDto;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.GetMapping;

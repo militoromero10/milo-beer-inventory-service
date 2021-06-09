@@ -1,4 +1,4 @@
-package com.milo.ms.web.model;
+package com.milo.brewery.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;
